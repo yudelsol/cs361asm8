@@ -7,5 +7,5 @@ Example calls are open(account.txt, "r") and open(principle.txt, "r").
 
 UML Diagram
 
-![Alt text](https://github.com/yudelsol/cs361asm8/blob/main/uml.png)
+![Alt text](images/uml.png)
 

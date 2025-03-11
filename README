@@ -4,3 +4,7 @@ Example calls are write(Name, Password, Bio), write(Name, Password), write(Name,
 
 How to receive data from the microservice: You will receive all data from the microservice in text files. Have a text file called account.txt and principle.txt as this is where data will be written unless you change the file names in the code.
 Example calls are open(account.txt, "r") and open(principle.txt, "r").
+
+UML Diagram
+
+(https://github.com/yudelsol/cs361asm8/raw/master/uml.png "UML Diagram")
